@@ -1,0 +1,20 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.4",
+  "Category": "",
+  "Description": "KSMS Lotto Venus 3D - Air-lift drawing machine sim",
+  "Modules": [
+    {
+      "Name": "KSMSLotto",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "Engine",
+        "Chaos",
+        "FieldSystemEngine",
+        "Niagara",
+        "UMG"
+      ]
+    }
+  ]
+}
